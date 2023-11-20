@@ -256,7 +256,7 @@ const Element = () => {
       <div className="overlap-group">
         <div className="sidepanel">
           <div className="frame-10">
-            <img className="image" alt="Image" src="https://c.animaapp.com/McviV3R7/img/image-1-1@2x.png" />
+            <img className="image" alt="error" src="https://c.animaapp.com/McviV3R7/img/image-1-1@2x.png" />
             <div className="frame-11">
               <div className="div-wrapper-2">
                 <div className="text-wrapper-13">Overview</div>
