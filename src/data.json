@@ -1,0 +1,131 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Sam Altman",
+      "email": "samaltman123@gmail.com",
+      "riskLevel": "Medium",
+      "trigger": "IP Change",
+      "inQueueFor": "4 days",
+      "date": "11 Oct, 2023",
+      "previouslyReviewed": "true",
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "name": "Sameer Choubey",
+      "email": "sameerchoubey123@gmail.com",
+      "riskLevel": "High",
+      "trigger": "FIFO",
+      "inQueueFor": "4 days",
+      "date": "12 Oct, 2023",
+      "previouslyReviewed": "false",
+      "status": "Pending"
+    },
+    {
+      "id": 3,
+      "name": "Adarsh Panikkar",
+      "email": "adarsh@onjuno.com",
+      "riskLevel": "Low",
+      "trigger": "IP Change",
+      "inQueueFor": "5 days",
+      "date": "12 Oct, 2023",
+      "previouslyReviewed": "false",
+      "status": "Completed",
+      "remail":"jira@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Pratik Shetty",
+      "email": "pratik3@gmail.com",
+      "riskLevel": "High",
+      "trigger": "FIFO",
+      "inQueueFor": "5 days",
+      "date": "12 Oct, 2023",
+      "previouslyReviewed": "false",
+      "status": "Completed",
+      "remail":"tambu@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Elon Musk",
+      "email": "elon@twitterceo.com",
+      "riskLevel": "Low",
+      "trigger": "FIFO",
+      "inQueueFor": "5 days",
+      "date": "12 Oct, 2023",
+      "previouslyReviewed": "true",
+      "status": "Pending"
+    },
+    {
+      "id": 6,
+      "name": "Trina Kundu",
+      "email": "trina@onjuno.com",
+      "riskLevel": "Low",
+      "trigger": "FIFO",
+      "inQueueFor": "5 days",
+      "date": "12 Oct, 2023",
+      "previouslyReviewed": "true",
+      "status": "Completed",
+      "remail":"jiraya@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Arvind Singh",
+      "email": "arvind@twitterceo.com",
+      "riskLevel": "Medium",
+      "trigger": "FIFO",
+      "inQueueFor": "3 days",
+      "date": "10 Oct, 2023",
+      "previouslyReviewed": "true",
+      "status": "Pending"
+    },
+    {
+      "id": 8,
+      "name": "tia Musk",
+      "email": "tia@twitterceo.com",
+      "riskLevel": "Low",
+      "trigger": "FIFO",
+      "inQueueFor": "3 days",
+      "date": "10 Oct, 2023",
+      "previouslyReviewed": "true",
+      "status": "Completed",
+      "remail":"joharan@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Kumar K",
+      "email": "Kumar@twitterceo.com",
+      "riskLevel": "Low",
+      "trigger": "FIFO",
+      "inQueueFor": "1 days",
+      "date": "22 Oct, 2023",
+      "previouslyReviewed": "true",
+      "status": "Pending"
+    },
+    {
+      "id": 10,
+      "name": "kiran johannes",
+      "email": "johan@yahoo.com",
+      "riskLevel": "Low",
+      "trigger": "FOFI",
+      "inQueueFor": "3 days",
+      "date": "12 Oct, 2023",
+      "previouslyReviewed": "true",
+      "status": "Completed",
+      "remail":"jameson@gmail.com"
+      
+    },
+    {
+      "id": 11,
+      "name": "Tan Lusk",
+      "email": "Tan@gmail.com",
+      "riskLevel": "Low",
+      "trigger": "TRFO",
+      "inQueueFor": "5 days",
+      "date": "12 Oct, 2023",
+      "previouslyReviewed": "false",
+      "status": "Pending"
+    }
+  ]
+}
